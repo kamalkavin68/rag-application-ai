@@ -5,4 +5,4 @@
 
 ## GraphRAG architecture diagram
 
-![App Screenshot](sources/graphrag_architecture.svg)
+![GraphRAG architecture diagram](sources/graphrag_architecture.svg)
